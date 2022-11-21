@@ -59,7 +59,7 @@ body {
 	position: relative;
 }
 .feature-title {
-	color: #333;
+	color: black;
 	font-size: 1.3rem;
 	font-weight: 700;
 	margin-bottom: 20px;
@@ -100,22 +100,22 @@ body {
 	border-radius: 0;
 }
 .features .btn {
-    background-color: #589b37;
-    border: 1px solid #589b37;
+    background-color: black;
+    border: 1px solid teal;
     color: #fff;
     margin-top: 20px;
 }
 .features .btn:hover {
-    background-color: #333;
-    border: 1px solid #333;
+    background-color: teal;
+    border: 1px solid black;
 }
 
 .page-footer {
-    background-color: #222;
-    color: #ccc;
+    background-color: teal;
+    color: white;
     padding: 60px 0 30px;
 }
 .footer-copyright {
-    color: #666;
+    color: white;
     padding: 40px 0;
 }
